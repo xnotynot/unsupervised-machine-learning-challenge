@@ -32,3 +32,9 @@ Then, I will create a visualization to share my findings with my team and other 
 * Based on your findings, write up a brief (one or two sentences) recommendation for your supervisor in your Jupyter Notebook. 
 * Can the patients be clustered? If so, into how many clusters?
 
+# Conclusion
+* Can the patients be clustered?
+1. Based on the amount of data that was made available, it's difficult to classify the patients.
+2. There is not distinct cluster shown when using the t-SNE model.
+3. The elbow curve chart was also not very distinct. It is more rounded than sharp elbow shaped.
+4. This would not provide accurate information to the supervisor of this notebook.
